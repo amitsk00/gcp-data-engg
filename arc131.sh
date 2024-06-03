@@ -1,6 +1,6 @@
 #!/usr/bin/sh 
 
-export API_KEY="AIzaSyCtEIrwdIwQ3m1jTPR7hSr9IDqq2LXq3t4"
+export API_KEY="dummy"
 
 TASK_2_REQUEST_FILE="request.json"
 TASK_2_RESPONSE_FILE="response.json"

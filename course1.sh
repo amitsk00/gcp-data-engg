@@ -51,7 +51,7 @@ curl -s -H 'Content-Type: application/json' \
 ############################## challenge lab 2
 
 
-export API_KEY="AIzaSyDjfZfwc67qrfDws-rLIN5n9Knulc0A88M"
+export API_KEY="dummy"
 
 
 
